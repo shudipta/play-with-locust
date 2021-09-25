@@ -1,0 +1,4 @@
+# github.com/gorilla/mux v1.7.4
+github.com/gorilla/mux
+# github.com/tamalsaha/go-oneliners v0.0.0-20190126213733-6d24eabef827
+github.com/tamalsaha/go-oneliners
